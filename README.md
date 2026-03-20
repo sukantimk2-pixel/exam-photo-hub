@@ -1,1 +1,0 @@
-# exam-photo-hub
