@@ -1,0 +1,174 @@
+{
+  "central_exams": [
+    {"id":"upsc_cse","name":"UPSC Civil Services (IAS/IPS)","photo":{"w":200,"h":250,"kb":300,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":100,"bg":"white","fmt":"jpg"}},
+    {"id":"upsc_capf","name":"UPSC CAPF (AC)","photo":{"w":200,"h":230,"kb":300,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":100,"bg":"white","fmt":"jpg"}},
+    {"id":"upsc_nda","name":"UPSC NDA/NA","photo":{"w":200,"h":230,"kb":300,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":100,"bg":"white","fmt":"jpg"}},
+    {"id":"upsc_cds","name":"UPSC CDS","photo":{"w":200,"h":230,"kb":300,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":100,"bg":"white","fmt":"jpg"}},
+    {"id":"ssc_cgl","name":"SSC CGL","photo":{"w":200,"h":230,"kb":300,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+    {"id":"ssc_chsl","name":"SSC CHSL","photo":{"w":200,"h":230,"kb":300,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+    {"id":"ssc_mts","name":"SSC MTS","photo":{"w":200,"h":230,"kb":300,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+    {"id":"ssc_gd","name":"SSC GD Constable","photo":{"w":200,"h":230,"kb":300,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+    {"id":"ssc_cpo","name":"SSC CPO (SI/ASI)","photo":{"w":200,"h":230,"kb":300,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+    {"id":"rrb_ntpc","name":"RRB NTPC","photo":{"w":200,"h":250,"kb":500,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":100,"bg":"white","fmt":"jpg"}},
+    {"id":"rrb_alp","name":"RRB ALP & Technician","photo":{"w":200,"h":250,"kb":500,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":100,"bg":"white","fmt":"jpg"}},
+    {"id":"rrb_je","name":"RRB JE","photo":{"w":200,"h":250,"kb":500,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":100,"bg":"white","fmt":"jpg"}},
+    {"id":"rrb_group_d","name":"RRB Group D","photo":{"w":200,"h":250,"kb":500,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":100,"bg":"white","fmt":"jpg"}},
+    {"id":"ibps_po","name":"IBPS PO","photo":{"w":200,"h":230,"kb":50,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":20,"bg":"white","fmt":"jpg"}},
+    {"id":"ibps_clerk","name":"IBPS Clerk","photo":{"w":200,"h":230,"kb":50,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":20,"bg":"white","fmt":"jpg"}},
+    {"id":"ibps_rrb","name":"IBPS RRB Officer/Asst","photo":{"w":200,"h":230,"kb":50,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":20,"bg":"white","fmt":"jpg"}},
+    {"id":"sbi_po","name":"SBI PO","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+    {"id":"sbi_clerk","name":"SBI Clerk","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+    {"id":"jee_main","name":"JEE Main","photo":{"w":200,"h":230,"kb":300,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+    {"id":"jee_advanced","name":"JEE Advanced","photo":{"w":200,"h":230,"kb":150,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+    {"id":"neet_ug","name":"NEET UG","photo":{"w":200,"h":230,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}},
+    {"id":"neet_pg","name":"NEET PG/MDS","photo":{"w":200,"h":230,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}},
+    {"id":"cuet_ug","name":"CUET UG","photo":{"w":200,"h":230,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}},
+    {"id":"cuet_pg","name":"CUET PG","photo":{"w":200,"h":230,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}},
+    {"id":"ctet","name":"CTET","photo":{"w":200,"h":230,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}},
+    {"id":"esic","name":"ESIC (UDC/MTS/Steno)","photo":{"w":200,"h":230,"kb":300,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":100,"bg":"white","fmt":"jpg"}}
+  ],
+  "states": [
+    {"code":"AP","name":"Andhra Pradesh","exams":[
+      {"id":"appsc","name":"APPSC Groups","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"ap_eamcet","name":"AP EAMCET","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}},
+      {"id":"ap_tet","name":"AP TET","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"AR","name":"Arunachal Pradesh","exams":[
+      {"id":"ar_appsc","name":"APPSC Arunachal","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"AS","name":"Assam","exams":[
+      {"id":"apsc","name":"APSC (ACS/APS)","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"assam_seba","name":"SEBA/AHSEC","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}},
+      {"id":"assam_tet","name":"Assam TET","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"BR","name":"Bihar","exams":[
+      {"id":"bpsc","name":"BPSC","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"bssc","name":"BSSC (Bihar SSC)","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"bihar_police","name":"Bihar Police","photo":{"w":200,"h":250,"kb":300,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":100,"bg":"white","fmt":"jpg"}},
+      {"id":"bihar_tet","name":"Bihar STET","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"CG","name":"Chhattisgarh","exams":[
+      {"id":"cgpsc","name":"CGPSC","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"cg_vyapam","name":"CG Vyapam","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"GA","name":"Goa","exams":[
+      {"id":"gpsc_goa","name":"GPSC Goa","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"GJ","name":"Gujarat","exams":[
+      {"id":"gpsc_gj","name":"GPSC Gujarat","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"gsssb","name":"GSSSB","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}},
+      {"id":"guj_tet","name":"Gujarat TET","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"HR","name":"Haryana","exams":[
+      {"id":"hpsc","name":"HPSC","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"hssc","name":"HSSC","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}},
+      {"id":"haryana_police","name":"Haryana Police","photo":{"w":200,"h":250,"kb":300,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":100,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"HP","name":"Himachal Pradesh","exams":[
+      {"id":"hppsc","name":"HPPSC","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"hp_tet","name":"HP TET","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"JH","name":"Jharkhand","exams":[
+      {"id":"jpsc","name":"JPSC","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"jssc","name":"JSSC","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"KA","name":"Karnataka","exams":[
+      {"id":"kpsc","name":"KPSC (KAS)","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"kar_tet","name":"Karnataka TET","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}},
+      {"id":"kar_pgcet","name":"Karnataka PGCET","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"KL","name":"Kerala","exams":[
+      {"id":"kerala_psc","name":"Kerala PSC","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"kerala_tet","name":"Kerala TET","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"MP","name":"Madhya Pradesh","exams":[
+      {"id":"mppsc","name":"MPPSC","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"mp_vyapam","name":"MP Vyapam","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}},
+      {"id":"mp_tet","name":"MP TET","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"MH","name":"Maharashtra","exams":[
+      {"id":"mpsc","name":"MPSC (State Service)","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"mh_tet","name":"Maharashtra TET","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}},
+      {"id":"mh_police","name":"Maharashtra Police","photo":{"w":200,"h":250,"kb":300,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":100,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"MN","name":"Manipur","exams":[
+      {"id":"mpsc_mn","name":"MPSC Manipur","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"ML","name":"Meghalaya","exams":[
+      {"id":"mpsc_ml","name":"MPSC Meghalaya","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"MZ","name":"Mizoram","exams":[
+      {"id":"mpsc_mz","name":"MPSC Mizoram","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"NL","name":"Nagaland","exams":[
+      {"id":"npsc","name":"NPSC","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"OD","name":"Odisha","exams":[
+      {"id":"opsc","name":"OPSC (OAS)","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"otet","name":"OTET","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}},
+      {"id":"ojee","name":"OJEE","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"PB","name":"Punjab","exams":[
+      {"id":"ppsc","name":"PPSC","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"psssb","name":"PSSSB","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"RJ","name":"Rajasthan","exams":[
+      {"id":"rpsc","name":"RPSC (RAS)","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"rsmssb","name":"RSMSSB","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}},
+      {"id":"raj_police","name":"Rajasthan Police","photo":{"w":200,"h":250,"kb":300,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":100,"bg":"white","fmt":"jpg"}},
+      {"id":"reet","name":"REET","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"SK","name":"Sikkim","exams":[
+      {"id":"spsc","name":"SPSC Sikkim","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"TN","name":"Tamil Nadu","exams":[
+      {"id":"tnpsc","name":"TNPSC (Groups I–IV)","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"tn_tet","name":"TN TET","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"TS","name":"Telangana","exams":[
+      {"id":"tspsc","name":"TSPSC (Groups I–IV)","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"ts_eamcet","name":"TS EAMCET","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}},
+      {"id":"ts_tet","name":"TS TET","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"TR","name":"Tripura","exams":[
+      {"id":"tpsc","name":"TPSC Tripura","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"UP","name":"Uttar Pradesh","exams":[
+      {"id":"uppsc","name":"UPPSC (PCS)","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"upssc","name":"UPSSSC","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}},
+      {"id":"up_police","name":"UP Police SI/Constable","photo":{"w":200,"h":250,"kb":300,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":100,"bg":"white","fmt":"jpg"}},
+      {"id":"uptet","name":"UP TET (UPTET)","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}},
+      {"id":"up_lekhpal","name":"UP Lekhpal","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"UK","name":"Uttarakhand","exams":[
+      {"id":"ukpsc","name":"UKPSC (UKCS)","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"uksssc","name":"UKSSSC","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"WB","name":"West Bengal","exams":[
+      {"id":"wbpsc","name":"WBPSC (WBCS)","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"wbp_constable","name":"WBP Constable","photo":{"w":200,"h":250,"kb":300,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":100,"bg":"white","fmt":"jpg"}},
+      {"id":"wb_tet","name":"WB TET (TET I/II)","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"DL","name":"Delhi","exams":[
+      {"id":"dsssb","name":"DSSSB","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}},
+      {"id":"delhi_police","name":"Delhi Police","photo":{"w":200,"h":250,"kb":300,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":100,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"JK","name":"Jammu & Kashmir","exams":[
+      {"id":"jkpsc","name":"JKPSC","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}},
+      {"id":"jkssb","name":"JKSSB","photo":{"w":200,"h":230,"kb":100,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":30,"bg":"white","fmt":"jpg"}}
+    ]},
+    {"code":"PY","name":"Puducherry","exams":[
+      {"id":"py_psc","name":"Puducherry PSC","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"},"signature":{"w":200,"h":67,"kb":50,"bg":"white","fmt":"jpg"}}
+    ]}
+  ],
+  "documents": [
+    {"id":"aadhaar","name":"Aadhaar Card","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"}},
+    {"id":"pan","name":"PAN Card","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"}},
+    {"id":"voter_id","name":"Voter ID","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"}},
+    {"id":"passport","name":"Passport (Indian)","photo":{"w":200,"h":200,"kb":200,"bg":"white","fmt":"jpg"}},
+    {"id":"ration","name":"Ration Card","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"}},
+    {"id":"resident","name":"Resident Certificate","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"}},
+    {"id":"driving","name":"Driving License","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"}},
+    {"id":"caste","name":"Caste Certificate","photo":{"w":200,"h":250,"kb":200,"bg":"white","fmt":"jpg"}}
+  ]
+}

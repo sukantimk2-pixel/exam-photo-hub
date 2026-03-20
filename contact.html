@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Contact Smart Exam & Document Photo Hub. Report errors in exam database, suggest features, or get help.">
+<title>Contact Us — Smart Exam & Document Photo Hub</title>
+<link rel="canonical" href="https://examphoto.in/pages/contact.html">
+<link rel="stylesheet" href="../css/style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+</head>
+<body>
+<div class="tricolor-strip"></div>
+<header class="site-header">
+  <div class="header-inner container">
+    <a href="../index.html" class="logo">
+      <div class="logo-icon">📷</div>
+      <div class="logo-text">
+        <div class="line1">Smart Exam Photo Hub</div>
+        <div class="line2">Free · No Login · All Indian Exams</div>
+      </div>
+    </a>
+    <nav class="nav-desktop">
+      <a href="../index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="contact.html" class="active">Contact</a>
+      <a href="privacy.html">Privacy</a>
+    </nav>
+    <button class="hamburger" id="hamburger"><span></span><span></span><span></span></button>
+  </div>
+  <nav class="nav-mobile" id="nav-mobile">
+    <a href="../index.html">🏠 Home</a>
+    <a href="about.html">ℹ️ About</a>
+    <a href="contact.html">📩 Contact</a>
+    <a href="privacy.html">🔒 Privacy Policy</a>
+    <a href="terms.html">📋 Terms & Conditions</a>
+    <a href="disclaimer.html">⚠️ Disclaimer</a>
+    <a href="license.html">📄 License</a>
+  </nav>
+</header>
+
+<div class="container">
+  <div class="ad-slot ad-slot-header">Advertisement (728×90)</div>
+</div>
+
+<section class="page-hero">
+  <div class="container animate-fade-up">
+    <h1>Contact <span>Us</span></h1>
+    <p>Report a database error, suggest a feature, or ask for help. We respond within 48 hours.</p>
+  </div>
+</section>
+
+<div class="container">
+  <div class="main-layout">
+    <main class="content-page" style="padding-top:24px;">
+
+      <div class="alert alert-info">
+        📌 For exam photo specifications, please also check the official exam authority's website as requirements can change with each notification.
+      </div>
+
+      <div class="contact-form">
+        <h2 style="margin-top:0;padding-left:0;border-left:none;font-size:22px;margin-bottom:20px;">Send Us a Message</h2>
+        <form id="contact-form" onsubmit="submitContact(event)">
+          <div class="form-grid">
+            <div class="form-group">
+              <label for="cf-name">Full Name *</label>
+              <input type="text" id="cf-name" required placeholder="Your full name">
+            </div>
+            <div class="form-group">
+              <label for="cf-email">Email Address *</label>
+              <input type="email" id="cf-email" required placeholder="your@email.com">
+            </div>
+            <div class="form-group full">
+              <label for="cf-subject">Subject *</label>
+              <input type="text" id="cf-subject" required placeholder="e.g. Wrong photo size for UPSC CSE">
+            </div>
+            <div class="form-group full">
+              <label for="cf-type">Type of Query</label>
+              <select id="cf-type" class="form-control" style="background-image:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23757575' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E\");background-repeat:no-repeat;background-position:right 12px center;padding-right:36px;">
+                <option>Database Error / Wrong Size</option>
+                <option>Feature Request</option>
+                <option>Bug Report</option>
+                <option>General Enquiry</option>
+                <option>Partnership</option>
+              </select>
+            </div>
+            <div class="form-group full">
+              <label for="cf-msg">Message *</label>
+              <textarea id="cf-msg" required rows="5" placeholder="Please describe your query in detail. If reporting a database error, mention the exam name and the correct specifications."></textarea>
+            </div>
+          </div>
+          <div style="margin-top:16px;">
+            <button type="submit" class="btn-submit">📨 Send Message</button>
+          </div>
+        </form>
+        <div id="form-success" class="alert alert-success" style="display:none;margin-top:16px;">
+          ✅ Thank you! Your message has been received. We'll get back to you within 48 hours.
+        </div>
+      </div>
+
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;margin-top:32px;">
+        <div class="sidebar-card">
+          <div class="sidebar-card-header">📧 Email</div>
+          <div class="sidebar-card-body" style="font-size:14px;">
+            <p>For general inquiries:<br><strong>hello@examphoto.in</strong></p>
+          </div>
+        </div>
+        <div class="sidebar-card">
+          <div class="sidebar-card-header">⏰ Response Time</div>
+          <div class="sidebar-card-body" style="font-size:14px;">
+            <p>We typically respond within <strong>24–48 hours</strong> on working days.</p>
+          </div>
+        </div>
+        <div class="sidebar-card">
+          <div class="sidebar-card-header">🐛 Report a Bug</div>
+          <div class="sidebar-card-body" style="font-size:14px;">
+            <p>Found wrong photo specs? Use the form above with type <strong>"Database Error"</strong>.</p>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <aside class="sidebar">
+      <div class="ad-slot ad-slot-sidebar">Advertisement (300×250)</div>
+      <div class="sidebar-card">
+        <div class="sidebar-card-header">❓ Common Questions</div>
+        <div class="sidebar-card-body" style="font-size:13px;">
+          <div style="display:grid;gap:12px;">
+            <div><strong>Is this tool completely free?</strong><br><span style="color:#555">Yes, always. No hidden charges.</span></div>
+            <div><strong>Are my photos stored?</strong><br><span style="color:#555">No. All processing is in your browser only.</span></div>
+            <div><strong>Can I use on mobile?</strong><br><span style="color:#555">Yes! Fully mobile-responsive.</span></div>
+            <div><strong>How often is DB updated?</strong><br><span style="color:#555">We update whenever official specs change.</span></div>
+          </div>
+        </div>
+      </div>
+      <div class="ad-slot ad-slot-sidebar-tall">Advertisement (300×600)</div>
+    </aside>
+  </div>
+</div>
+
+<div class="container">
+  <div class="ad-slot ad-slot-footer">Advertisement (728×90)</div>
+</div>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-col">
+        <h3>🇮🇳 Smart Exam Photo Hub</h3>
+        <p>India's most comprehensive free exam photo resize tool.</p>
+      </div>
+      <div class="footer-col">
+        <h3>Quick Links</h3>
+        <div class="footer-links">
+          <a href="../index.html">Home</a>
+          <a href="about.html">About Us</a>
+          <a href="contact.html">Contact</a>
+          <a href="license.html">License</a>
+        </div>
+      </div>
+      <div class="footer-col">
+        <h3>Legal</h3>
+        <div class="footer-links">
+          <a href="privacy.html">Privacy Policy</a>
+          <a href="terms.html">Terms & Conditions</a>
+          <a href="disclaimer.html">Disclaimer</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© 2026 <strong>Smart Exam &amp; Document Photo Hub</strong>. All rights reserved.<br>
+      Some tools &amp; libraries licensed under <strong>MIT License</strong>. Secure &amp; Safe for users.</p>
+    </div>
+  </div>
+</footer>
+
+<div id="toast-container" class="toast-container"></div>
+<script>
+document.getElementById('hamburger').addEventListener('click', function() {
+  this.classList.toggle('open');
+  document.getElementById('nav-mobile').classList.toggle('open');
+});
+
+function submitContact(e) {
+  e.preventDefault();
+  // In production: send to your backend / Formspree / EmailJS
+  document.getElementById('contact-form').style.display = 'none';
+  document.getElementById('form-success').style.display = 'flex';
+}
+</script>
+</body>
+</html>
